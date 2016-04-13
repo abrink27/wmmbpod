@@ -10,7 +10,6 @@
   	margin-top:10px;
   	margin-bottom:15px;
   	padding:20px;
-
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -51,4 +50,23 @@ body {
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     max-height: 550px;
     width: 100%;
+}
+
+.curly-bracket{
+  font-size: 115px;
+  text-align: right;
+  position: relative;
+  top: 100%;
+  transform: translateY(-5%);
+}
+
+
+.col-xs-offset-right-1 {
+  margin-right: 8.33333333%;
+}
+
+#lobster-font {
+  font-family: 'Lobster';
+  font-size: 200px;
+  text-align: center;
 }
